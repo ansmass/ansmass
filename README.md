@@ -6,8 +6,7 @@ I start learn the web developement alone with tuto and documentations now im in 
 
 I'm currently learning AngularJS and Symfony.
 
-<img src="![languages statistique](languages.png)">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansmass&size_weight=0.5&count_weight=0.5&theme=dark)
 
 
 <!--
