@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## I'm Anselme French web developper ⌨️
+
+I start learn the web developement alone with tuto and documentations now im in a digital school in my Github you can show various projects.
+
+I'm currently learning AngularJS and Symfony.
+
+<img src="![languages statistique](languages.png)">
+
+
 
 <!--
 **ansmass/ansmass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
