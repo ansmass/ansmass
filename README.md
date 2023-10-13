@@ -4,7 +4,7 @@
 
 I started learn the web developement alone with tuto and documentations now im in a digital school. In my Github you can see various projects.
 
-My stacks is : HTML, CSS (most SCSS) and JavaScript.
+My stacks is : HTML, CSS (most SCSS) and JavaScript.  
 I'm currently learning AngularJS and PHP or Symfony.
 
 You can see my personnal web site [portfolio](https://anselme-massiot.fr) here.
